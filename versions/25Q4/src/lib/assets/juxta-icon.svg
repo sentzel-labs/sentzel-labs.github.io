@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1040 1040" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-32097.297502,-17288.870869)">
+        <g id="juxta-icon-final" transform="matrix(0.585301,0,0,1.90017,17208.936039,-13022.607652)">
+            <rect x="25437.117" y="15951.98" width="1775.788" height="546.988" style="fill:white;fill-opacity:0;"/>
+            <g transform="matrix(1.202151,0.193457,-2.082805,1.227994,28512.60907,-8815.004756)">
+                <g transform="matrix(9.121467,-0,0,3.086275,-104050.625398,-2865.014662)">
+                    <rect x="14231.149" y="6165.144" width="99.278" height="24.31"/>
+                </g>
+                <g transform="matrix(-9.121467,0,0,-3.086275,156700.646767,35353.499438)">
+                    <rect x="14231.146" y="6165.144" width="99.28" height="24.31"/>
+                </g>
+                <g transform="matrix(3.040365,-0,0,3.086275,-16911.165144,-2953.844857)">
+                    <rect x="14218.971" y="6165.144" width="111.456" height="24.31"/>
+                </g>
+                <g transform="matrix(-3.040365,0,0,-3.086275,69560.121714,35442.329633)">
+                    <rect x="14218.971" y="6165.144" width="111.456" height="24.31"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
