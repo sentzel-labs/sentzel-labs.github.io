@@ -5,8 +5,8 @@
 
 <main class="flex flex-col h-screen bg-white">
   <!-- Hero -->
-  <section class="flex flex-1 justify-center items-center min-h-0 px-8">
-    <div class="max-w-2xl">
+  <section class="flex flex-1 items-center min-h-0 px-8">
+    <div class="w-full max-w-2xl mx-auto">
       <img src={logo} alt="Sentzel Labs" class="h-16" />
       <p class="mt-8 text-gray-500 text-lg leading-relaxed">
         Experience something unforgettable.
