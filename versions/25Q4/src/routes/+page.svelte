@@ -1,6 +1,6 @@
 <script lang="ts">
   import logo from "$lib/assets/sentzel-wordmark.svg";
-  import juxtaIcon from "$lib/assets/juxta-icon.png";
+  import juxtaIcon from "$lib/assets/juxta-icon.svg";
 </script>
 
 <main class="flex flex-col h-screen bg-white">
