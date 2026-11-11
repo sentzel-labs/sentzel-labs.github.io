@@ -20,7 +20,6 @@
   <footer class="px-8 pb-8">
     <div class="max-w-2xl mx-auto flex flex-row items-center gap-4">
       <p class="text-xs text-gray-400">&copy; {new Date().getFullYear()} Sentzel Labs</p>
-      <a href="/values" class="text-xs text-gray-400 hover:text-gray-600">Values</a>
       <a href="mailto:kadir@sentzel.com" class="text-xs text-gray-400 hover:text-gray-600"
         >kadir@sentzel.com</a
       >
